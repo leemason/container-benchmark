@@ -1,0 +1,22 @@
+{
+    "name": "leemason/container-benchmark",
+    "description": "Benchmark of the container against other popular containers",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "leemason",
+            "email": "contact@nohalfpixels.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/leemason/container"
+        }
+    ],
+    "require": {
+        "league/container": "~2.0",
+        "leemason/container": "master"
+    },
+    "minimum-stability": "dev"
+}
